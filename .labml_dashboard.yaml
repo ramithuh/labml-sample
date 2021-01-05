@@ -1,0 +1,62 @@
+default:
+  - type: controls
+    name: ""
+    key: ""
+  - type: generations
+    name: ""
+    key: ""
+  - type: experiment_name
+    name: Experiment
+    key: ""
+  - type: comment
+    name: Comment
+    key: ""
+  - type: date_time
+    name: Date Time
+    key: ""
+  - type: info
+    name: Commit Message
+    key: commit_message
+    visible: true
+  - type: info
+    name: Dirty
+    key: is_dirty
+    visible: true
+  - type: info
+    name: Tags
+    key: tags
+    visible: false
+  - type: size
+    name: Size
+    key: total_size
+  - type: size
+    name: Checkpoints
+    key: checkpoints_size
+    visible: false
+  - type: size
+    name: SQLite
+    key: sqlite_size
+    visible: false
+  - type: size
+    name: Analytics
+    key: analytics_size
+    visible: false
+  - type: size
+    name: Tensorboard
+    key: tensorboard_size
+    visible: false
+  - type: size
+    name: Artifacts
+    key: artifacts_size
+    visible: true
+  - type: step
+    name: Step
+    key: ""
+  - type: value
+    name: loss
+    key: loss
+    visible: true
+  - type: value
+    name: accuracy
+    key: accuracy
+    visible: true
