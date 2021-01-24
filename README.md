@@ -1,1 +1,1 @@
-# This repo is intended as an unofficial starting guide for using LabML 
+## This repo is intended as an unofficial starter code for using LabML locally
