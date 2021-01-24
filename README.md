@@ -1,1 +1,1 @@
-# sample
+# This repo is intended as an unofficial starting guide for using LabML 
